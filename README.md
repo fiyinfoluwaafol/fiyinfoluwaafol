@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **fiyinfoluwaafol/fiyinfoluwaafol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there 👋,
+
+I'm **Fiyinfoluwa Afolayan**, a passionate software engineer and student at Howard University with a knack for solving problems through code. 
+
+- 🌱 I'm currently learning **Swift**, **Prisma**, and **AWS**.
+- 👨‍💻 I'm actively working on [SplitEase](https://github.com/ShareSync/SplitEase) and other exciting projects!
+- 💬 Ask me about **Python** or **Javascript**.
+- 📫 How to reach me: [Email](mailto:fiyinfoluwa.afolayan@gmail.com) | [LinkedIn](https://www.linkedin.com/in/fiyinfoluwa-afolayan/)
+- 🧑‍🤝‍🧑 Pronouns: He/Him
+- 🤝 I'm open to collaborating on **open-source** projects.
+
+---
+
+## 📊 GitHub Stats
+![Fiyinfoluwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fiyinfoluwaafol&show_icons=true&theme=radical)
+
+---
+
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
+
+---
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=fiyinfoluwaafol&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
