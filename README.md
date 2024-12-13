@@ -26,11 +26,6 @@ I'm **Fiyinfoluwa Afolayan**, a passionate software engineer and student at Howa
 
 ---
 
-## 📊 GitHub Stats
-![Fiyinfoluwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fiyinfoluwaafol&show_icons=true&theme=radical)
-
----
-
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
@@ -41,6 +36,14 @@ I'm **Fiyinfoluwa Afolayan**, a passionate software engineer and student at Howa
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
+
+---
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=fiyinfoluwaafol&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000)
+
+---
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fiyinfoluwaafol&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
