@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm **Fiyinfoluwa Afolayan**, a passionate software engineer and student at Howard University with a knack for solving problems through code. 
 
 - 🌱 I'm currently learning **Swift**, **Prisma**, and **AWS**.
-- 👨‍💻 I'm actively working on [SplitEase](https://github.com/ShareSync/SplitEase) and other exciting projects!
+- 👨‍💻 I'm actively working on [SplitEase](https://github.com/fiyinfoluwaafol/SplitEase) and other exciting projects!
 - 💬 Ask me about **Python** or **Javascript**.
 - 📫 How to reach me: [Email](mailto:fiyinfoluwa.afolayan@gmail.com) | [LinkedIn](https://www.linkedin.com/in/fiyinfoluwa-afolayan/)
 - 🧑‍🤝‍🧑 Pronouns: He/Him
